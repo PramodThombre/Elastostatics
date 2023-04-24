@@ -13,3 +13,5 @@ Discretiztion is done using
 Part2 is 2D transient heat conduction problem.
 
 Part3 is 3D Elasto statics problem.
+
+Generated .vtu files can be visulaized in ParaView.
