@@ -1,6 +1,7 @@
 # Elastostatics
-This code was developed as a part of the assignments for the Introduction to Finite Element Methods course.
+The code solves a 1D elastostatics problem in which one face of a beam is constariant and the opposite end face is appliied with a deformation.
 It uses the open source Eigen library in cpp for handling matrices, vectors. Eigen library has to be installed for running this code.
+This code was developed as a part of the assignments for the Introduction to Finite Element Methods course.
 
 Finite element (FE) code in C++ to solve:
 
